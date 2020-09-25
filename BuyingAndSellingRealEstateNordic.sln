@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuyingAndSellingRealEstateNordic", "BuyingAndSellingRealEstateNordic.csproj", "{15681EFF-956D-415D-BADF-E70250F59BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerApp", "..\ConsumerApp\ConsumerApp.csproj", "{2BE5A319-7BBC-48D5-AB1F-C6909DBAAA17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15681EFF-956D-415D-BADF-E70250F59BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15681EFF-956D-415D-BADF-E70250F59BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15681EFF-956D-415D-BADF-E70250F59BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15681EFF-956D-415D-BADF-E70250F59BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE5A319-7BBC-48D5-AB1F-C6909DBAAA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE5A319-7BBC-48D5-AB1F-C6909DBAAA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE5A319-7BBC-48D5-AB1F-C6909DBAAA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE5A319-7BBC-48D5-AB1F-C6909DBAAA17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F13F8CB2-A0AA-4BC1-8045-A354F30A5DE3}
+	EndGlobalSection
+EndGlobal
