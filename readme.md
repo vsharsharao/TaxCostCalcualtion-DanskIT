@@ -9,9 +9,9 @@ This is a simple web application to calculate tax for a particular city on a giv
 
 
 ###### API Links
-GET : /api/Tax/GetTaxInfo?city=Copenhagen&date=2016-03-16
-POST : /Tax/TaxDataUpload/   (application/json)
-POST : /api/Tax/BulkTaxDataUpload  (multipart/form-data)
+* GET : /api/Tax/GetTaxInfo?city=Copenhagen&date=2016-03-16
+* POST : /Tax/TaxDataUpload/   (application/json)
+* POST : /api/Tax/BulkTaxDataUpload  (multipart/form-data)
 
 ###### Sample Input format
 ```javascript
